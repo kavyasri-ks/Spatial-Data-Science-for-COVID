@@ -7,6 +7,6 @@ Geospatial Visualizations – Create insightful maps, choropleths, and heatmaps 
 Spatial Data Science Techniques – Apply geospatial analytics, clustering, and spatial trend analysis for epidemiological insights.
 
 📌Requirements
-Python 3.x
+Python 3.x / Anaconda Notebook (Colab) - Fast Execution
 Geospatial & data science libraries such as geopandas, pandas, matplotlib, folium, contextily, numpy, etc.
 
