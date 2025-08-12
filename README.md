@@ -31,8 +31,11 @@ or, for Conda:
 
 🚀 Getting Started
 Clone the repository:
+      
       git clone https://github.com/<your-username>/Spatial-Data-Science-for-COVID-19.git
+      
       cd Spatial-Data-Science-for-COVID-19
+      
 Open the notebook in Jupyter or Google Colab.
 Install required libraries (see Requirements).
 Run the notebook cells sequentially to reproduce the analysis.
