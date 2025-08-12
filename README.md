@@ -32,7 +32,7 @@ or, for Conda:
 🚀 Getting Started
 Clone the repository:
       
-      git clone https://github.com/<your-username>/Spatial-Data-Science-for-COVID-19.git
+      git clone https://github.com/kavyasri-ks/Spatial-Data-Science-for-COVID-19.git
       
       cd Spatial-Data-Science-for-COVID-19
       
